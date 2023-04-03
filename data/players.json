@@ -12,7 +12,7 @@
     "steals": 1.7,
     "blocks": 0.5,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Fred VanVleet is a well-rounded basketball player with aversatile skill set. He excels at shooting from beyond the arc, playing tough defense, and creating opportunities for himself and his teammates. His strong work ethic and leadership skills make him a valuable asset to any team, and he was a key player in the Toronto Raptors' championship run in 2019."
+    "bio": "Fred VanVleet is a well-rounded basketball player with a versatile skill set. He excels at shooting from beyond the arc, playing tough defense, and creating opportunities for himself and his teammates. He was also a key player in the Toronto Raptors' championship run in 2019."
   },
   {
     "id": "garytrentjr",
@@ -27,7 +27,7 @@
     "steals": 1.7,
     "blocks": 0.3,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Gary Trent Jr. is a skilled basketball player known for his scoring ability, particularly from the three-point line. He also has strong defensive skills, including the ability to guard multiple positions. His competitiveness and work ethic have helped him develop into a valuable player on both ends of the court."
+    "bio": "Gary Trent Jr. is a skilled basketball player known for his scoring ability, particularly from the three-point line. He also has strong defensive skills, including the ability to guard multiple positions. His competitiveness has helped him develop into a valuable player on both ends of the court."
   },
   {
     "id": "scottiebarnes",
@@ -42,7 +42,7 @@
     "steals": 1.1,
     "blocks": 0.7,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Scottie Barnes is a rising star in the NBA with an impressive skill set, including his exceptional defensive skills, playmaking abilities, and high basketball IQ. His versatility, leadership skills, and strong work ethic have also contributed to his success, earning him the Rookie of the Year award for the 2021/2022 season."
+    "bio": "Scottie Barnes is a rising star in the NBA with an impressive skill set, including his exceptional defensive skills, playmaking abilities, and high basketball IQ. His versatility and strong work ethic have also contributed to his success, earning him the Rookie of the Year award for the 21/22 season."
   },
   {
     "id": "oganunoby",
@@ -57,7 +57,7 @@
     "steals": 1.5,
     "blocks": 0.5,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "OG Anunoby is a talented basketball player known for his versatility and strong two-way game. He's an excellent defender who can guard multiple positions, and he's also a capable scorer and rebounder. His athleticism and high basketball IQ contribute to his success on both ends of the court, making him a valuable player for the Toronto Raptors."
+    "bio": "OG Anunoby is a talented basketball player known for his strong two-way game. He's an excellent defender who can guard multiple positions, and he's also a capable scorer and rebounder. His athleticism has contributed to his success on both ends of the floor, making him a valuable player for the Raptors."
   },
 
   {
@@ -73,7 +73,7 @@
     "steals": 1.3,
     "blocks": 0.6,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Pascal Siakam is a highly skilled basketball player who excels in scoring, playmaking, and defense. His athleticism, work ethic, and versatility have earned him recognition as an NBA All-Star, NBA Champion, and NBA Most Improved Player. Siakam's contributions to the Toronto Raptors have made him a valuable player in the league."
+    "bio": "Pascal Siakam is a highly skilled basketball player who excels in scoring, playmaking, and defense. His athleticism, work ethic, and versatility have earned him recognition as an NBA All-Star, NBA Champion, and NBA Most Improved Player. Siakam was a key player in the 2018/2021 Raptors' Championship run."
   },
   {
     "id": "marcussmart",
@@ -88,7 +88,7 @@
     "steals": 1.7,
     "blocks": 0.3,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Marcus Smart is a versatile player who excels in all facets of the game. His defensive skills are particularly outstanding, earning him the Defensive Player of the Year award. He has a high basketball IQ, strong work ethic, and tenacity that allows him to disrupt opponents' offenses. Offensively, he is a solid playmaker and scorer."
+    "bio": "Marcus Smart excels in all facets of the game. His defensive skills are particularly outstanding, earning him the Defensive Player of the Year award. He has a high basketball IQ, strong work ethic, and tenacity that allows him to disrupt opponents' offenses. Offensively, he is a solid playmaker and scorer."
   },
   {
     "id": "jaylenbrown",
@@ -118,7 +118,7 @@
     "steals": 1,
     "blocks": 0.6,
     "video": "http://localhost:2323/KawhiClip.mp4",
-    "bio": "Jayson Tatum is an exceptional player who possesses a wide range of skills. He is a versatile scorer who can shoot from long range, create his own shot, and attack the basket. Tatum's defensive skills are also impressive, and he has the ability to guard multiple positions. His talents have earned him a spot on the All-NBA team, showcasing his impact on the league."
+    "bio": "Jayson Tatum possesses a wide range of skills. He is a versatile scorer who can shoot from long range, create his own shot, and attack the basket. Tatum's defensive skills are also impressive, and he has the ability to guard multiple positions. His talents have earned him a spot on the All-NBA team, showcasing his impact on the league."
   },
   {
     "id": "alhorford",
