@@ -1,6 +1,7 @@
 [
   {
     "id": "fredvanvleet",
+    "team": "raptors",
     "name": "Fred VanVleet",
     "image": "http://localhost:2323/fvv.jpg",
     "description": "Guard, Toronto Raptors",
@@ -15,6 +16,7 @@
   },
   {
     "id": "garytrentjr",
+    "team": "raptors",
     "name": "Gary Trent Jr.",
     "image": "http://localhost:2323/gtj.jpg",
     "description": "Guard, Toronto Raptors",
@@ -29,6 +31,7 @@
   },
   {
     "id": "scottiebarnes",
+    "team": "raptors",
     "name": "Scottie Barnes",
     "image": "http://localhost:2323/scottie.jpg",
     "description": "Guard/Forward/Center, Toronto Raptors",
@@ -43,6 +46,7 @@
   },
   {
     "id": "oganunoby",
+    "team": "raptors",
     "name": "OG Anunoby",
     "image": "http://localhost:2323/og.jpg",
     "description": "Forward, Toronto Raptors",
@@ -58,7 +62,8 @@
 
   {
     "id": "pascalsiakam",
-    "name": "pascalsiakam",
+    "team": "raptors",
+    "name": "Pascal Siakam",
     "image": "http://localhost:2323/siakam.jpg",
     "description": "Forward, Toronto Raptors",
     "quote": "Spicy P",
@@ -72,6 +77,7 @@
   },
   {
     "id": "marcussmart",
+    "team": "celtics",
     "name": "Marcus Smart",
     "image": "http://localhost:2323/marcussmart2.jpg",
     "description": "Guard, Boston Celtics",
@@ -86,6 +92,7 @@
   },
   {
     "id": "jaylenbrown",
+    "team": "celtics",
     "name": "Jaylen Brown",
     "image": "http://localhost:2323/jaylenbrown1.jpg",
     "description": "Guard/Forward, Boston Celtics",
@@ -100,6 +107,7 @@
   },
   {
     "id": "jaysontatum",
+    "team": "celtics",
     "name": "Jayson Tatum",
     "image": "http://localhost:2323/jaysontatum2.jpg",
     "description": "Forward, Boston Celtics",
@@ -114,6 +122,7 @@
   },
   {
     "id": "alhorford",
+    "team": "celtics",
     "name": "Al Horford",
     "image": "http://localhost:2323/alhorford2.jpg",
     "description": "Forward/Center, Boston Celtics",
@@ -128,6 +137,7 @@
   },
   {
     "id": "robwilliams",
+    "team": "celtics",
     "name": "Rob Williams III",
     "image": "http://localhost:2323/robwilliams2.jpg",
     "description": "Center, Boston Celtics",

@@ -19,6 +19,7 @@ router.get("/", function (request, response) {
     const newPlayer = {
       id: player.id,
       name: player.name,
+      team: player.team,
       image: player.image,
       description: player.description,
       quote: player.quote,
@@ -53,5 +54,5 @@ router.get("/:id", function (request, response) {
 module.exports = router;
 
 // get requests look like:
-// http://localhost2323/players
-// http://localhost2323/players/fredvanvleet
+// http://localhost:2323/players
+// http://localhost:2323/players/fredvanvleet
