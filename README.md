@@ -38,12 +38,12 @@ _*Note: You will need node and npm already installed*_
 
 **If you do not have these dependencies, run** `npm i cors dotenv express uniqid` **inside the server directory**
 
-3. Create a .env file and fill the following fields with your own values:
+3. Create a .env file and fill the fields with the following:
 
    ```shell
-   PORT= <PORT_NUMBER>
+   PORT=2323
 
-   CLIENT_URL= <http://localhost:3000>
+   CLIENT_URL=http://localhost:3000
    ```
 
 4. Start the server:
