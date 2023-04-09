@@ -14,7 +14,7 @@ I used Node/Express to create a backend API with data I retrieved myself.
 
 -- Marco Luciano (April, 2023)
 
-![Screenshot of NBA - My Starting Five App](./src/assets/Images/app-screenshot.png)
+![Screenshot of NBA - My Starting Five App](./public/images/app-screenshot.png)
 
 # Installation
 
