@@ -34,7 +34,7 @@ _*Note: You will need node and npm already installed*_
 
    ```
 
-3. Create a .env file and fill the fields with the following:
+3. Create a .env file and add the following to the document:
 
    ```shell
    PORT=2323
