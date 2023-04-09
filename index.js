@@ -14,8 +14,6 @@ app.use(express.static("./public/videos"));
 
 //Routes
 app.use("/players", playerRoutes);
-
-//Not sure what below is for
 app.get("/", function (request, response) {
   // response.send
 });
