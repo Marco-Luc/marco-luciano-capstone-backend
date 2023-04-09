@@ -34,10 +34,6 @@ _*Note: You will need node and npm already installed*_
 
    ```
 
-**Ensure you have the following dependencies in your JSON files:** `cors, dotenv, express and uniqid`
-
-**If you do not have these dependencies, run** `npm i cors dotenv express uniqid` **inside the server directory**
-
 3. Create a .env file and fill the fields with the following:
 
    ```shell
@@ -64,14 +60,10 @@ _*Note: You will need node and npm already installed*_
 
    ```
 
-**Ensure you have the following dependencies in your JSON files:** `axios, react-router-dom, and sass`
-
-**If you do not have these dependencies, run** `npm i axios react-router-dom sass` **inside the client directory**
-
-6. Start the React app:
+7. Start the React app:
 
    ```bash
    $ npm start
    ```
 
-7. Enjoy 😎
+8. Enjoy 😎
