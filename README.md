@@ -27,8 +27,8 @@ On both sides, **Axios** was used for making requests between the client and ser
 
 — Marco Luciano (April, 2023)
 
-![Screenshot of NBA - My Starting Five App](./src/assets/Images/app-screenshot.png)
-![Screenshot of NBA - My Starting Five App Compare Page](./src/assets/Images/app-screenshot3.png)
+![Screenshot of NBA - My Starting Five App](./public/image-screenshots/app-screenshot.png)
+![Screenshot of NBA - My Starting Five App Compare Page](./public/image-screenshots/app-screenshot3.png)
 
 # Installation
 
