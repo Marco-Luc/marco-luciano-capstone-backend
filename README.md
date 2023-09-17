@@ -8,8 +8,7 @@ This is my capstone project for BrainStation's full-stack bootcamp. Students wer
 
 Watch the video of my demo **<a href="https://youtu.be/k2X_2czoUWc" target="_blank">here</a>**.
 
-[(https://img.youtube.com/vi/k2X_2czoUWc/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=k2X_2czoUWc)
+[![Video](https://img.youtube.com/vi/k2X_2czoUW/maxresdefault.jpg)](https://www.youtube.com/watch?v=k2X_2czoUW)
 
 # Tech Stack
 
