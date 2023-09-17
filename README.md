@@ -8,7 +8,9 @@ This is my capstone project for BrainStation's full-stack bootcamp. Students wer
 
 Watch the video of my demo **<a href="https://youtu.be/k2X_2czoUWc" target="_blank">here</a>**.
 
-{% include youtube.html id="k2X_2czoUWc" %}
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/k2X_2czoUWc/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=k2X_2czoUWc)
 
 # Tech Stack
 
