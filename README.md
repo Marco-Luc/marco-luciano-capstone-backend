@@ -6,7 +6,7 @@
 
 This is my capstone project for BrainStation's full-stack bootcamp. Students were tasked to create their very own full-stack application within a two week time frame.
 
-Watch the video my video demo **<a href="https://youtu.be/k2X_2czoUWc" target="_blank">here</a>**.
+Watch the video of my demo **<a href="https://youtu.be/k2X_2czoUWc" target="_blank">here</a>**.
 
 # Tech Stack
 
